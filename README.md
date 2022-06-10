@@ -13,4 +13,7 @@ Git bash,
 Git hub,
 nano
 
+# NOTAS
+Aunque estudie,No practique lo suficiente.
+No debo estudiar un dia antes!
 
